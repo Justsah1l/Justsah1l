@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![An image of @justsah1l's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/justsah1l)](https://holopin.io/@justsah1l)
+[![Justsah1l's GitHub | Languages Over Time](https://stats.quine.sh/Justsah1l/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Justsah1l)
 <!--
 **Justsah1l/Justsah1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
