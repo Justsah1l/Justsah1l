@@ -2,7 +2,8 @@
 [![An image of @justsah1l's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/justsah1l)](https://holopin.io/@justsah1l)
 
 
-[![Justsah1l's GitHub | Stats](https://stats.quine.sh/Justsah1l/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Justsah1l)  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justsah1l&show_icons=true&locale=en&layout=compact" alt="justsah1l" /></p>
+[![Justsah1l's GitHub | Stats](https://stats.quine.sh/Justsah1l/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Justsah1l)  [![Justsah1l's GitHub | Dependencies](https://stats.quine.sh/Justsah1l/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Justsah1l)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justsah1l&show_icons=true&locale=en&layout=compact" alt="justsah1l" /></p>
 
 <!--
 **Justsah1l/Justsah1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
